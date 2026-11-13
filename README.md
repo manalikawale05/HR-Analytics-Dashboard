@@ -34,3 +34,4 @@ This project analyzes employee attrition using Power BI. The dashboard helps und
 
 ## Conclusion
 The dashboard provides insights into employee attrition patterns and helps HR teams identify areas that may need attention.
+
